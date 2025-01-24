@@ -1,4 +1,4 @@
-![logo](https://github.com/SahilBagade29/SahilBagade29/blob/main/t.png)
+
 <h1 align="center">Hi 👋, I'm Sahil Bagade</h1>
 <h2 align="center">A Passionate Frontend Developer from India</h2>
 
