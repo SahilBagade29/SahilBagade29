@@ -1,6 +1,5 @@
-
 <h1 align="center">Hi 👋, I'm Sahil Bagade</h1>
-<h3 align="center">A Passionate Frontend Developer from India</h3>
+<h2 align="center">A Passionate Frontend Developer from India</h2>
 
 <img src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg" width = "500px" align="right" >
 
